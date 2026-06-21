@@ -1,2 +1,14 @@
 # statsbaowei-archive
-HTML page archive and documentation
+
+页面发布与维护记录
+
+仓库主要用于保存 HTML 页面，便于通过 GitHub Pages 访问。
+
+## 文件说明
+
+- 页面文件直接提交到仓库
+- 仓库说明用于辅助维护
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
